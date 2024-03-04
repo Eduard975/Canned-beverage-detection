@@ -5,4 +5,9 @@ For this project we used [Ultralytics YOLOv8](https://github.com/ultralytics/ult
 
   During the project we created 2 datasets, one for a [demo](https://universe.roboflow.com/pi-ulvcg/crazy-wolf) which only had images of Crazy Wolf and one for the [final model](https://universe.roboflow.com/pi-ulvcg/crazy-wolf) which contains a larger gamma of canned beverages.
 
-  [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/p1z0_xZ_)
+## Project realized by
+* [Petrișor Eduard-Gabriel](https://github.com/Eduard975)
+* [Radu Ștefan-Vlăduț](https://github.com/raduq420)
+
+
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/p1z0_xZ_)
