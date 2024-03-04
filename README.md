@@ -1,5 +1,5 @@
 # Pi-P (Image processing project)
-A project we realized for the PI-P course in which we had to realize our own dataset and train an AI model to detect objects based on it.
+A project we made for the PI-P course in which we had to realize our own dataset and train an AI model to detect objects based on it.
 
 For this project we used [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics) to train the model and [Roboflow](https://roboflow.com) to manage the dataset.
 
